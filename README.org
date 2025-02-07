@@ -35,6 +35,8 @@ The default JIS /kana/ layout has resulted in market failure because /kana/ are 
 
 *** /Buri Cyuutoro/
 
+*** /New Stickney/ - supported in [[https://esrille.github.io/ibus-hiragana/en/layouts.html#new_stickney][IBUS Hiragana]] on Linux.
+
 *** Others
 
 * My Choice
